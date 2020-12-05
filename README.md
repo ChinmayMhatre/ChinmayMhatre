@@ -20,8 +20,8 @@
 
 
 ### some of my work : 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ChinmayMhatre&repo=Guitarly&show_icons=true&theme=radical&title_color=00BFFF&text_color=fff&icon_color=00BFFF)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ChinmayMhatre&repo=LCO-Basketball-Tournament&show_icons=true&theme=radical&title_color=00BFFF&text_color=fff&icon_color=00BFFF)
+<a href="https://github.com/ChinmayMhatre/Guitarly">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ChinmayMhatre&repo=Guitarly&show_icons=true&theme=radical&title_color=00BFFF&text_color=fff&icon_color=00BFFF)</a>
+<a href="https://github.com/ChinmayMhatre/LCO-Basketball-Tournament">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ChinmayMhatre&repo=LCO-Basketball-Tournament&show_icons=true&theme=radical&title_color=00BFFF&text_color=fff&icon_color=00BFFF)</a>
 
 ### Github stats : 
 <img src="https://github-readme-stats.vercel.app/api?username=ChinmayMhatre&show_icons=true&theme=radical&title_color=00BFFFtext_color=fff&icon_color=00BFFF"> 
