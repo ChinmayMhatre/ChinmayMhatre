@@ -1,5 +1,5 @@
 
-![name](https://user-images.githubusercontent.com/51131670/101205920-5986d380-3694-11eb-8a81-b34ffbed5189.png)
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/51131670/101205920-5986d380-3694-11eb-8a81-b34ffbed5189.png" >
 <br>
 
 ### How to reach me: 
