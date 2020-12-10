@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on <strong> nodejs , PHP</strong> 
+- 🔭 I’m currently working on <strong> nodejs , PHP</strong> <img align="right" height="250" width="500" src="https://tenor.com/view/typing-jim-carrey-fast-busy-gif-4903969.gif"/>
 - 🌱 I’m currently learning <strong>  React JS</strong> 
 - 📫 How to reach me:<strong>  chinmaymhatre12@gmail.com</strong> 
 - 👯 I’m looking to collaborate on <strong>  Front-end development projects<strong> 
