@@ -5,7 +5,7 @@
 ### How to reach me: 
 <img src="https://img.shields.io/badge/chinmaymhatre12@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="chinmaymhatre12@gmail.com"> <a href="https://www.linkedin.com/in/chinmaymhatre/"><img src="https://img.shields.io/badge/Chinmay Mhatre-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://twitter.com/chinmaysmhatre"><img target="_blank" src="https://img.shields.io/badge/twitter%20@chinmaysmhatre-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
 
-<br>
+
 
 - 🔭 I’m currently working on <strong> nodejs , PHP</strong> 
 - 🌱 I’m currently learning <strong>  React JS</strong> 
