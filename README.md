@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on <strong> nodejs , PHP</strong> 
-- 🌱 I’m currently learning <strong>  React JS</strong> 
+- 🌱 I’m currently learning <strong>  React Native </strong> 
 - 📫 How to reach me:<strong>  chinmaymhatre12@gmail.com</strong> 
 - 👯 I’m looking to collaborate on <strong>  Front-end development projects<strong> 
 
