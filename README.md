@@ -2,10 +2,6 @@
 <img align="center"  src="https://user-images.githubusercontent.com/51131670/101205920-5986d380-3694-11eb-8a81-b34ffbed5189.png" >
 <img  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
 
-### How to reach me: 
-
-<img src="https://img.shields.io/badge/chinmaymhatre12@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="chinmaymhatre12@gmail.com"> <a href="https://www.linkedin.com/in/chinmaymhatre/"><img src="https://img.shields.io/badge/Chinmay Mhatre-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://twitter.com/chinmaysmhatre"><img target="_blank" src="https://img.shields.io/badge/twitter%20@chinmaysmhatre-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
-
 
 ### Tools I work upon : 🛠
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> 
