@@ -10,6 +10,8 @@
 
 ### My Recent Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Crash course in Asynchronous JavaScript (Part 2)](https://dev.to/chinmaymhatre/crash-course-in-asynchronous-javascript-part-2-29jn)
+- [Crash course in Asynchronous JavaScript (Part 1)](https://dev.to/chinmaymhatre/crash-course-in-asynchronous-javascript-part-1-4g2o)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some Of My Work : 
