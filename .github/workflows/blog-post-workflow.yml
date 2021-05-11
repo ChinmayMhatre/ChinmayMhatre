@@ -17,3 +17,4 @@ jobs:
           feed_list: "https://dev.to/feed/chinmaymhatre"
           # Maximum number of posts you want
           max_post_count: 2
+          template: '[$title]($url)$newline'
