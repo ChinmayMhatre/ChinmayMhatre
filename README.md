@@ -19,8 +19,8 @@
 
 ### My Recent Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [How To Generate apk Using React Native Expo](https://dev.to/chinmaymhatre/how-to-generate-apk-using-react-native-expo-kae)
 - [this keyword in JavaScript](https://dev.to/chinmaymhatre/this-keyword-in-javascript-421d)
-- [Crash course in Asynchronous JavaScript (Part 2)](https://dev.to/chinmaymhatre/crash-course-in-asynchronous-javascript-part-2-29jn)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
