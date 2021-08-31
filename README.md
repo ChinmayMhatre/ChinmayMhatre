@@ -19,8 +19,8 @@
 
 ### My Recent Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite VS Code Extensions](https://dev.to/chinmaymhatre/my-favorite-vs-code-extensions-3j3)
 - [How To Generate apk Using React Native Expo](https://dev.to/chinmaymhatre/how-to-generate-apk-using-react-native-expo-kae)
-- [this keyword in JavaScript](https://dev.to/chinmaymhatre/this-keyword-in-javascript-421d)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
