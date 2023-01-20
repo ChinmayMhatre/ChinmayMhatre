@@ -26,9 +26,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<!-- 
 ### Github Stats : 
-<img src="https://github-readme-stats.vercel.app/api?username=ChinmayMhatre&show_icons=true&theme=radical&title_color=00BFFFtext_color=fff&icon_color=00BFFF"> 
+<img src="https://github-readme-stats.vercel.app/api?username=ChinmayMhatre&show_icons=true&theme=radical&title_color=00BFFFtext_color=fff&icon_color=00BFFF">  -->
 
 <!-- [![Chinmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChinmayMhatre&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
