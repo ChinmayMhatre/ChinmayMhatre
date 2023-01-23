@@ -7,7 +7,7 @@
 ✉️ How to reach me: chinmaymhatre12@gmail.com
 
 
-<p align="center">
+<p align="lef">
 <img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
 </p>
 
