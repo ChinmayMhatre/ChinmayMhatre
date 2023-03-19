@@ -2,7 +2,6 @@
 ## Hi Everyone! My name is Chinmay - Welcome to my GitHub!
 
 💻 I am a frontend developer from India  
-🌱 I am currently learning three.js
 🧑🏽‍💻 My portfolio is available at [https://www.chinmaymhatre.in/](https://www.chinmaymhatre.in/) <br/>
 ✉️ How to reach me: chinmaymhatre12@gmail.com
 
