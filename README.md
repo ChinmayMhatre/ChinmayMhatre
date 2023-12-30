@@ -3,8 +3,8 @@
 
 💻 I am a frontend developer from India  
 🧑🏽‍💻 My portfolio is available at [https://www.chinmaymhatre.in/](https://www.chinmaymhatre.in/) <br/>
-✉️ How to reach me: chinmaymhatre12@gmail.com
-
+✉️ How to reach me: 
+https://www.linkedin.com/in/chinmaymhatre
 
 <p align="left">
 <img style="align-self:center"  height="250" width="500" src="https://tenor.com/view/aggretsuko-tadano-keyboard-coding-retsuko-gif-18852575.gif"/>
