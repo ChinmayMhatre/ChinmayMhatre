@@ -1,8 +1,6 @@
 
 ## Hi Everyone! My name is Chinmay - Welcome to my GitHub!
 
-💻 I am a frontend developer from India  
-🧑🏽‍💻 My portfolio is available at [https://www.chinmaymhatre.in/](https://www.chinmaymhatre.in/) <br/>
 ✉️ How to reach me: 
 https://www.linkedin.com/in/chinmaymhatre
 
